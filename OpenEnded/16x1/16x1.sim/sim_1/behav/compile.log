@@ -1,0 +1,10 @@
+Determining compilation order of HDL files.
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Coding/Verilog/16x1/16x1.srcs/sources_1/new/mux16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux16
+INFO: [VRFC 10-311] analyzing module a16x1
+ERROR: [VRFC 10-1412] syntax error near [ [F:/Coding/Verilog/16x1/16x1.srcs/sources_1/new/mux16.v:21]
+ERROR: [VRFC 10-1412] syntax error near [ [F:/Coding/Verilog/16x1/16x1.srcs/sources_1/new/mux16.v:22]
+ERROR: [VRFC 10-1412] syntax error near [ [F:/Coding/Verilog/16x1/16x1.srcs/sources_1/new/mux16.v:23]
+ERROR: [VRFC 10-1412] syntax error near [ [F:/Coding/Verilog/16x1/16x1.srcs/sources_1/new/mux16.v:24]
+ERROR: [VRFC 10-1412] syntax error near [ [F:/Coding/Verilog/16x1/16x1.srcs/sources_1/new/mux16.v:25]
+ERROR: [VRFC 10-1040] module a16x1 ignored due to previous errors [F:/Coding/Verilog/16x1/16x1.srcs/sources_1/new/mux16.v:17]
